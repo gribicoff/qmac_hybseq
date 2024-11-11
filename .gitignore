@@ -1,0 +1,40 @@
+# fastq files - ADD README
+
+/data/*.fastq.gz
+/data/fastqc/*zip
+/data/fastqc/fastqc_multi/*zip
+
+# legacy analyses
+
+/analyses_legacy/
+
+# legacy scripts
+
+/scripts_legacy/
+
+# intermediate read files/bioinformatic output
+
+/analyses/trimming/paired/*fastq.gz
+/analyses/trimming/unpaired/*fastq.gz
+/analyses/trimming/postqc/*zip
+/analyses/trimming/postqc/postqc_multi/*zip
+/analyses/trimming/seqcount/*zip
+
+/analyses/align/
+/analyses/calling/
+/analyses/blast/
+/analyses/fastqc/
+/analyses/it_filt
+/analyses/
+
+# climate rasters
+
+/analyses/envdata/climdata/*.tif
+
+# maxent models
+
+/analyses/envdata/maxent/*.rds
+
+# jackknife samples - UPLOAD TABLE OF OF FST PER SAMPLE
+
+/analyses/new_analyses/subsample_dists/subset_fst/

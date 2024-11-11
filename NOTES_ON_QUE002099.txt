@@ -1,0 +1,3 @@
+QUE002099_bic was erroneously identified as Q. bicolor; should be Q. muehlenbergii (hybrid/admixed with Q. alba)
+8/9/23: changed QUE002099_bic to QUE002099_mue everwhere except in jackknife replicate files, vcf files (except phylosnps.vcf)
+
