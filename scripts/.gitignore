@@ -18,27 +18,61 @@
 
 # intermediate read files/bioinformatic output
 
-/analyses/trimming/paired/*fastq.gz
-/analyses/trimming/unpaired/*fastq.gz
-/analyses/trimming/postqc/*zip
-/analyses/trimming/postqc/postqc_multi/*zip
-/analyses/trimming/seqcount/*zip
+/analyses/trimming/paired/*.fastq.gz
+/analyses/trimming/unpaired/*.fastq.gz
+/analyses/trimming/postqc/*.zip
+/analyses/trimming/postqc/postqc_multi/*.zip
+/analyses/trimming/seqcount/*.zip
 
-/analyses/align/
-/analyses/calling/
-/analyses/blast/
-/analyses/fastqc/
-/analyses/it_filt
-/analyses/
+/analyses/align/*.bam
+/analyses/align/*.bai
+/analyses/align/align_qc/
+/analyses/align/align_multiqc_data/
+/analyses/align/index/*Qlobata*
 
-# climate rasters
+
+/analyses/calling/*.vcf
+/analyses/calling/*.vcf.gz
+/analyses/calling/*.vcf.gz.csi
+/analyses/calling/*.bam
+/analyses/calling/*.bai
+
+/analyses/it_filt/*.vcf
+/analyses/it_filt/*.vcf.gz
+/analyses/it_filt/*.vcf.gz.csi
+
+/analyses/ldprune_qc/onesnppergene/
+/analyses/ldprune_qc/admix/
+/analyses/ldprune_qc/*.vcf.gz
+/analyses/ldprune_qc/*.vcf.gz.csi
+
+/analyses/blast/Qlobata*
+/analyses/blast/Qrobur*
+/analyses/blast/Qrob_PM1N_genes_20161004.gff
+
+# spatial/SDM data
 
 /analyses/envdata/climdata/*.tif
+/analyses/envdata/climdata/Global-AI_ET0_annual_v3.zip
+/analyses/envdata/climdata/Global-AI_ET0_v3_annual/
 
-# maxent models
+/analyses/envdata/fia/*.rds
+
+/analyses/envdata/0049455-231120084113126.zip
+
+/analyses/envdata/sympsppdata/*.zip
+/analyses/envdata/sympsppdata/fiadata.rds
 
 /analyses/envdata/maxent/*.rds
+/analyses/envdata/maxent/*.pdf
+/analyses/envdata/maxent/*.tif
 
 # jackknife samples - UPLOAD TABLE OF OF FST PER SAMPLE
 
-/analyses/new_analyses/subsample_dists/subset_fst/
+/analyses/new_analyses/feems/src/
+
+/analyses/new_analyses/subsample_dists/subset_fst/*subset*
+
+/analyses/new_analyses/newhybrids/*unpruned*
+
+# /analyses/new_analyses/figures/allpairs_pitraceplots.pdf

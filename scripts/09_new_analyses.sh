@@ -147,12 +147,12 @@ while read NAME
 do
   plink --bfile ~/qmac/analyses/ldprune_qc/it_filt --double-id --allow-extra-chr --set-missing-var-ids "@:#" --keep-fam inds_for_newhybrids_${NAME}.txt --extract snps_for_newhybrids_${NAME}.txt --recode 12 --out ${NAME}_nhinput
   sed "s/PED_PARSER_MAP_FILE_QUESTION=/&${NAME}_nhinput.map/" ped2newhybrids.spid > ped2newhybrids_$NAME.spid
-  mkdir run_nh_new/$NAME
+  mkdir run_nh/$NAME
   for i in {1..4}
   do
-    mkdir run_nh_new/$NAME/run$i
+    mkdir run_nh/$NAME/run$i
   done
-  PGDSpider2-cli -inputfile ${NAME}_nhinput.ped -inputformat PED -outputfile run_nh_new/$NAME/${NAME}.newhybrids -outputformat NEWHYBRIDS -spid ped2newhybrids_$NAME.spid
+  PGDSpider2-cli -inputfile ${NAME}_nhinput.ped -inputformat PED -outputfile run_nh/$NAME/${NAME}.newhybrids -outputformat NEWHYBRIDS -spid ped2newhybrids_$NAME.spid
 done < speciespairs.txt
 
 # make sure genotype frequency matrix is in newhybrids directory
@@ -163,9 +163,9 @@ cut -f1 GtypeFreqExtBxs.txt | sed '1d' | paste -s > GtypeFreqExtBxs_headers.txt
 # run newhybrids in parallel
 
 # parallel 'cd run_nh/{1}/run{2} && ~/newhybrids/newhybrids-no-gui-linux.exe -d ../{1}.newhybrids -c ../../../GtypeFreqExtBxs.txt --burn-in 300000 --num-sweeps 600000 --seeds {2}133 93{2}7 --no-gui --print-traces Pi 5 2>&1 | tee {1}_run{2}.log' :::: speciespairs.txt ::: {1..3}
-parallel 'cd run_nh_new/{1}/run{2} && ~/newhybrids/newhybrids-no-gui-linux.exe -d ../{1}.newhybrids -c ../../../GtypeFreqExtBxs.txt --burn-in 300000 --num-sweeps 600000 --seeds {2}133 93{2}7 --no-gui --print-traces Pi 5 2>&1 | tee {1}_run{2}.log' :::: speciespairs.txt ::: {1..4}
+parallel 'cd run_nh/{1}/run{2} && ~/newhybrids/newhybrids-no-gui-linux.exe -d ../{1}.newhybrids -c ../../../GtypeFreqExtBxs.txt --burn-in 300000 --num-sweeps 600000 --seeds {2}133 93{2}7 --no-gui --print-traces Pi 5 2>&1 | tee {1}_run{2}.log' :::: speciespairs.txt ::: {1..4}
 
-# parallel 'cd run_nh_new/alb_mue/run{} && ~/newhybrids/newhybrids-no-gui-linux.exe -d ../alb_mue.newhybrids -c ../../../GtypeFreqExtBxs.txt --burn-in 300000 --num-sweeps 600000 --seeds {}133 93{}7 --no-gui --print-traces Pi 5 2>&1 | tee alb_mue_run{}.log' ::: {1..4}
+# parallel 'cd run_nh/alb_mue/run{} && ~/newhybrids/newhybrids-no-gui-linux.exe -d ../alb_mue.newhybrids -c ../../../GtypeFreqExtBxs.txt --burn-in 300000 --num-sweeps 600000 --seeds {}133 93{}7 --no-gui --print-traces Pi 5 2>&1 | tee alb_mue_run{}.log' ::: {1..4}
 
 # rename output files (WIP)
 
@@ -184,7 +184,7 @@ while read NAME
 do
   for i in run1 run2 run3 run4
   do
-    for j in $(find run_nh_new/$NAME/${i} -name "aa-*")
+    for j in $(find run_nh/$NAME/${i} -name "aa-*")
     do
       mv $j $(echo $j | sed "s/aa-/${NAME}_${i}_/g")
     done
@@ -205,8 +205,8 @@ while read NAME
 do
   for i in run1 run2 run3 run4
   do
-    grep 'PI_TRACE' run_nh_new/$NAME/${i}/${NAME}_${i}.log | sed '1d' | cut -d':' -f2- | awk -v run=$i '{print $0"\t"run}'
-  done | sed '1i itnum\tPure_0\tPure_1\tF1\tF2\tP0_F1\tP1_F1\tP0_P0F1\tP1_P1F1\tP0_P0P0F1\tP1_P1P1F1\trunnum' > run_nh_new/${NAME}_pitraces.txt
+    grep 'PI_TRACE' run_nh/$NAME/${i}/${NAME}_${i}.log | sed '1d' | cut -d':' -f2- | awk -v run=$i '{print $0"\t"run}'
+  done | sed '1i itnum\tPure_0\tPure_1\tF1\tF2\tP0_F1\tP1_F1\tP0_P0F1\tP1_P1F1\tP0_P0P0F1\tP1_P1P1F1\trunnum' > run_nh/${NAME}_pitraces.txt
 done < speciespairs.txt
 
 # plot traces for pi (estimated distribution of genotype frequency classes)
@@ -221,7 +221,7 @@ done < speciespairs.txt
 conda activate R_newhybrids
 while read NAME
 do
-  Rscript ~/qmac/scripts/newhybrids_plotpitrace.R run_nh_new/"${NAME}_pitraces.txt" "${NAME}_pitraceplot.pdf"
+  Rscript ~/qmac/scripts/newhybrids_plotpitrace.R run_nh/"${NAME}_pitraces.txt" "${NAME}_pitraceplot.pdf"
 done < speciespairs.txt
 conda deactivate
 
@@ -236,7 +236,7 @@ rm *pitraceplot.pdf
 
 while read NAME
 do
-  paste <(sed '1i ind_ID' inds_for_newhybrids_$NAME.txt) <(cut --complement -f1-2 run_nh_new/$NAME/run1/${NAME}_run1_PofZ.txt | sed '1d' | cat GtypeFreqExtBxs_headers.txt -) > ${NAME}_nh_rawlabels.txt
+  paste <(sed '1i ind_ID' inds_for_newhybrids_$NAME.txt) <(cut --complement -f1-2 run_nh/$NAME/run1/${NAME}_run1_PofZ.txt | sed '1d' | cat GtypeFreqExtBxs_headers.txt -) > ${NAME}_nh_rawlabels.txt
 done < speciespairs.txt
 
 # relabel classes with species
