@@ -1,0 +1,30 @@
+PLINK v1.90b6.21 64-bit (19 Oct 2020)
+Options in effect:
+  --allow-extra-chr
+  --bfile it_filt
+  --bp-space 500
+  --double-id
+  --make-bed
+  --out thin_it_filt_500bp
+  --set-missing-var-ids @:#
+
+Hostname: sassy-64
+Working directory: /home/gabe/qmac/analyses/ldprune_qc
+Start time: Thu Aug  1 16:42:19 2024
+
+Random number seed: 1722548539
+515586 MB RAM detected; reserving 257793 MB for main workspace.
+84201 variants loaded from .bim file.
+364 people (0 males, 0 females, 364 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to thin_it_filt_500bp.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 364 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.92266.
+--bp-space: 80789 variants removed (3412 remaining).
+3412 variants and 364 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to thin_it_filt_500bp.bed + thin_it_filt_500bp.bim +
+thin_it_filt_500bp.fam ... done.
+
+End time: Thu Aug  1 16:42:19 2024

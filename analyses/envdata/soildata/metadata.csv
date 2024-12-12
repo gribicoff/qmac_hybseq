@@ -1,0 +1,24 @@
+﻿property_id,property_name,property_units_or_type,property_source,aggregation_method,notes
+soildepth,soil depth,cm,component,weighted average,"Used major components only. Used component restriction, component diagnostic features, component horizon name, and component horizon texture to determine depth of soil to restrictive horizon. If no restriction was found, the maximum horizon bottom depth was used."
+pondfreqcl_dc,ponding frequency,factor,component,dominant condition,Assigned most common ponding frequency from component month table to each component. Then used dominant condition to determine frequency for map unit 
+flodfreqcl_dc,flooding frequency,factor,component,dominant condition,Assigned most common flooding frequency from component month table to each component. Then used dominant condition to determine frequency for map unit 
+drclassdcd,drainage class,factor,component,dominant condition,"Queried directly from the muaggatt table. This column displays the dominant drainage class for the map unit, based on composition percentage of each map unit component"
+aws0100wta,available water supply 0-100 cm,cm of water,component,weighted average,"Queried directly from the muaggatt table. The volume of water that the soil, to a depth of 100 centimeters, can store that is available to plants. It is reported as the weighted average of all components in the map unit, and is expressed as centimeters of water"
+caco3_r,calcium carbonate ,%,horizon,weighted average,Used 0-100 cm and calculated weighted average for each map unit. Used major components only
+cec7_r,cation exchange capacity,meq/100g,horizon,weighted average,Used 0-100 cm and calculated weighted average for each map unit. Used major components only
+ec_r,electrical conductivity,ds/m,horizon,weighted average,Used 0-100 cm and calculated weighted average for each map unit. Used major components only
+ecec_r,effective cation exchange capactiy,meq/100g,horizon,weighted average,Used 0-100 cm and calculated weighted average for each map unit. Used major components only
+gypsum_r,gypsum,%,horizon,weighted average,Used 0-100 cm and calculated weighted average for each map unit. Used major components only
+ph1to1h2o_r,ph in 1:1 water solution,-log[H+],horizon,weighted average,Used 0-100 cm and calculated weighted average for each map unit. Used major components only
+claytotal_r,total clay ,%,horizon,weighted average,Used 0-100 cm and calculated weighted average for each map unit. Used major components only
+sandtotal_r,total sand ,%,horizon,weighted average,Used 0-100 cm and calculated weighted average for each map unit. Used major components only
+silttotal_r,total silt ,%,horizon,weighted average,Used 0-100 cm and calculated weighted average for each map unit. Used major components only
+dbthirdbar_r,bulk density 1/3 bar ,g/cm3,horizon,weighted average,Used 0-100 cm and calculated weighted average for each map unit. Used major components only
+lep_r,linear extensibility ,%,horizon,weighted average,Used 0-100 cm and calculated weighted average for each map unit. Used major components only
+om_r,soil organic matter,%,horizon,weighted average,Used 0-100 cm and calculated weighted average for each map unit. Used major components only
+ksat_r,saturated hydraulic conductivity,um/s,horizon,weighted average,Used 0-100 cm and calculated weighted average for each map unit. Used major components only
+awc_r,available water capacity,in/in,horizon,weighted average,Used 0-100 cm and calculated weighted average for each map unit. Used major components only
+total_aws,available water storage,cm,component,weighted average,Calculated horizon thickness. Multiplied thickness by AWC. Summed product for each component. Calculated weighted average across map unit. 
+ffd,frost free days ,# days,raster,unique,"Number of days in the 90%-probability frost-free period, derived from the 800m PRISM daily minimum temperature data over the interval of 1981-2010. Extracted value from 800m resolution raster at the GPS location."
+surf_texture,surface texture,character,component,dominant condition,Took the first horizon of each component. Then used dominant condition to come up with one value per map unit
+min_surf_texture,mineral surface texture,character,component,dominant condition,Removed all horions with organic textures. Took the first horizon for each component. Then used dominant condition to come up with one value per mapunit

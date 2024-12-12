@@ -1,0 +1,176 @@
+"","areasymbol","musym","muname","mukey","caco3_r","cec7_r","ec_r","ecec_r","gypsum_r","ph1to1h2o_r","claytotal_r","sandtotal_r","silttotal_r","dbthirdbar_r","lep_r","om_r","ksat_r","awc_r"
+"1","OK143","53","Wynona silty clay loam, 0 to 1 percent slopes, occasionally flooded",106737,0,16.54,1,NA,0,5.8,30.88,7.89,61.23,1.44,3.24,1.47,2.56,0.19
+"2","IN127","OaC","Oakville fine sand, 4 to 12 percent slopes",160670,0,4.15,0,NA,0,6.04,2.52,94.24,3.24,1.53,1.5,0.43,91.74,0.07
+"3","IN003","McB","Martinsville loam, 2 to 6 percent slopes",164707,0,11.87,0,10.37,0,6.2,22.94,49.91,27.15,1.49,2.3,0.56,9.17,0.18
+"4","IN039","CnbC","Coloma sand, 5 to 10 percent slopes",165348,0,2.56,0,NA,0,6.1,2.85,91.75,5.4,1.53,0.23,0.39,55,0.07
+"5","IL041","3107A","Sawmill silty clay loam, 0 to 2 percent slopes, frequently flooded",166414,0,24.96,1,NA,0,6.73,30.75,9.65,59.6,1.37,4.45,1.79,9.17,0.18
+"6","OH033","Blg1B1","Blount silt loam, ground moraine, 2 to 4 percent slopes",168542,3,21.48,0,14.86,0,6.71,36.41,18.91,44.68,1.58,3.81,0.8,2.81,0.14
+"7","OH033","TrA","Tiro silt loam, 0 to 2 percent slopes",168593,0.18,14.16,0,NA,0,6.17,26.68,20.62,52.7,1.5,2.83,1.27,9.1,0.16
+"8","OH051","DfA","Del Rey silt loam, 0 to 3 percent slopes",169076,6.27,18.91,0,NA,0,6.59,33.62,18.89,47.49,1.51,3.75,0.94,2.98,0.17
+"9","OH051","FtA","Fulton silty clay loam, 0 to 2 percent slopes",169080,8.2,24.82,0,NA,0,6.6,42.59,8.95,48.46,1.55,6.81,0.72,1.3,0.13
+"10","OH051","Lf","Lenawee silty clay loam, 0 to 1 percent slopes",169094,1.54,19.92,0.18,NA,0,7.04,35,14,51,1.56,4.59,2.24,0.05,0.12
+"11","OH097","Ko","Kokomo silty clay loam, 0 to 2 percent slopes",169899,0,27.9,0,NA,0,6.42,34.6,21.44,43.96,1.48,5.18,2.34,2.82,0.16
+"12","IL043","298A","Beecher silt loam, 0 to 2 percent slopes",183392,1.32,15.2,0.2,NA,0,6.96,32.22,8.94,58.84,1.51,2.83,1.25,3.92,0.15
+"13","IL043","298B","Beecher silt loam, 2 to 4 percent slopes",183393,1.32,15.2,0.2,NA,0,6.96,32.22,8.94,58.84,1.51,2.83,1.25,3.92,0.15
+"14","IL043","3107A","Sawmill silty clay loam, heavy till plain, 0 to 2 percent slopes, frequently flooded",183395,0,24.96,1,NA,0,6.73,30.75,9.65,59.6,1.37,4.45,1.89,9.17,0.18
+"15","IL043","327B","Fox silt loam, 2 to 4 percent slopes",183402,12.95,11.63,0,NA,0,7.62,20.77,48.58,30.65,1.56,3.09,0.47,129.3,0.13
+"16","IL043","530C2","Ozaukee silt loam, 4 to 6 percent slopes, eroded",183423,4.3,15.77,0,NA,0,7.11,35.58,11.64,52.78,1.57,2.72,0.64,3.07,0.13
+"17","IL043","530D2","Ozaukee silt loam, 6 to 12 percent slopes, eroded",183424,5.95,15.28,0,NA,0,6.9,33.9,12.13,53.97,1.58,2.67,0.65,3.78,0.14
+"18","MI021","W","Water",186213,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"19","MI149","5C","Spinks loamy sand, 6 to 12 percent slopes",186292,0,2.41,0.05,NA,0,6.06,4.01,86.38,9.6,1.66,0.25,0.44,55,0.08
+"20","MI149","5D","Spinks loamy sand, 12 to 18 percent slopes",186293,0,2.35,0.05,NA,0,6.06,4.01,86.45,9.54,1.66,0.25,0.42,55,0.08
+"21","MI037","W","Water",186406,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"22","MI017","13","Belleville loamy sand",186526,0,2.12,0,NA,0,6.36,5.72,85.83,8.45,1.47,0.38,1.64,83.74,0.09
+"23","MI017","55","Aquents, sandy and loamy",186541,0,5.1,0,NA,0,5.9,7,91.7,1.3,1.53,0.5,0.25,92,0.06
+"24","MI017","59","Tobico fine sand",186545,0.15,4.3,0,NA,0,6.88,5,94.4,0.6,1.46,0.42,1.2,91.74,0.1
+"25","MI065","OtB","Oshtemo-Spinks loamy sands, 0 to 6 percent slopes",186745,0,5.98,0,NA,0,6.31,8.87,79.73,11.4,1.5,1.5,0.81,58.74,0.1
+"26","MI065","OtC","Oshtemo-Spinks loamy sands, 6 to 12 percent slopes",186746,0,5.97,0,NA,0,6.31,9.3,79.19,11.51,1.5,1.5,0.73,55.16,0.11
+"27","MI065","PmsacA","Palms muck, 0 to 1 percent slopes",186749,1.45,72.18,0.46,NA,0,7.4,10,25,65,0.71,0.7,32.6,9.41,0.34
+"28","MI065","ThA","Thetford loamy sand, 0 to 3 percent slopes",186759,0,4.5,0,NA,0,6.62,8.81,87.78,3.41,1.51,1.5,0.81,34.5,0.08
+"29","MI161","MmF","Miami loam, 25 to 35 percent slopes",191650,3.6,13.94,0,NA,0,6.44,25.14,38.58,36.28,1.51,2.94,0.56,7.49,0.19
+"30","MI161","Sb","Sebewa loam, disintegration moraine, 0 to 2 percent slopes",191668,3.15,19.31,0,NA,0,7.05,23.94,50.91,25.15,1.5,3.04,1.64,21.56,0.15
+"31","MI161","WaA","Wasepi sandy loam, 0 to 4 percent slopes",191687,0.8,5.82,0,NA,0,6.77,10.47,72.65,16.88,1.37,1.5,0.88,54.4,0.12
+"32","IL089","152A","Drummer silty clay loam, 0 to 2 percent slopes",198805,0,26.8,0,NA,0,6.7,31,8,61,1.32,4,2.75,9.17,0.17
+"33","IL089","219A","Millbrook silt loam, 0 to 2 percent slopes",198818,0,17.41,NA,15.2,0,5.66,25.9,19.54,54.56,1.55,2.58,0.94,9.17,0.19
+"34","IL181","8085A","Jacob silty clay, 0 to 2 percent slopes, occasionally flooded",199539,0,51.7,0,39,0,4.72,66.45,2.45,31.1,1.4,17,2.1,0.28,0.12
+"35","IN089","BlA","Blount silt loam, Lake Michigan Lobe, 0 to 2 percent slopes",272444,6.7,14.11,0,12.5,0,6.63,32.07,14.01,53.92,1.51,2.94,0.81,4.11,0.15
+"36","MA003","272A","Hoosic gravelly fine sandy loam, 0 to 3 percent slopes",276600,0,NA,0,6.16,0,5.17,3.79,80.56,15.65,1.47,1.5,0.95,113.83,0.05
+"37","VT013","BeB","Benson rocky silt loam, over shaly limestone, 3 to 8 percent slopes",279234,0,10.86,0,NA,0,6.92,20,26.5,53.5,1.51,1.5,2.03,6.76,0.13
+"38","VT013","CbA","Covington silty clay loam, 0 to 3 percent slopes",279244,0,24.69,0,NA,0,6.78,67,9.3,23.7,1.36,7.5,2.61,0.31,0.12
+"39","VT013","CbB","Covington silty clay loam, 3 to 8 percent slopes",279245,0,24.69,0,NA,0,6.78,67,9.3,23.7,1.36,7.5,2.61,0.31,0.12
+"40","VT001","Lh","Livingston clay",281273,0,28.52,0,NA,0,6.51,72.75,8.12,19.13,1.37,4.5,2.55,1.09,0.11
+"41","VT001","Mv","Muck and Peat",281287,0.35,131.58,0,NA,0,7,6.04,66.99,26.97,0.33,1.5,67.67,22.21,0.38
+"42","VT001","VgB","Vergennes clay, 2 to 6 percent slopes",281316,0,26.64,0,NA,0,6.86,72.53,8.67,18.8,1.37,4.5,1.4,0.82,0.11
+"43","VT003","18C","Windsor loamy sand, 8 to 15 percent slopes",281409,0,0.1,0,2.17,0,5.24,0.78,86.95,12.27,1.45,0.08,4.24,100,0.09
+"44","VT007","EwA","Enosburg and Whately soils, 0 to 3 percent slopes",281687,0,8.64,0,NA,0,6.31,15.35,55.55,29.1,1.56,2.41,1.54,43.69,0.13
+"45","VT007","HnB","Hinesburg fine sandy loam, 3 to 8 percent slopes",281712,0,3.99,0,NA,0,6.13,4.88,72.7,22.41,1.42,1.5,1.61,65.94,0.12
+"46","VT007","MuD","Munson and Belgrade silt loams, 12 to 25 percent slopes",281733,0,12.4,0,NA,0,6.35,21.55,37.05,41.4,1.37,2.45,1.69,6.36,0.17
+"47","VT007","VeB","Vergennes clay, 2 to 6 percent slopes",281761,0,25.53,0,NA,0,7.05,72.52,8.68,18.8,1.37,4.5,1.29,0.77,0.11
+"48","VT021","24","Pinnebog muck",282264,0,136.5,0,NA,0,NA,5,70,25,0.33,NA,65,23.28,0.41
+"49","VT021","71A","Castile gravelly fine sandy loam, 0 to 3 percent slopes",282441,0,6.87,0,NA,0,6,8.31,71.89,19.8,1.42,1.5,2.37,48.82,0.07
+"50","CT600","107","Limerick and Lim soils",285938,0,4.24,0,NA,0,6.35,6.35,44.49,49.16,1.32,1.5,0.88,17.09,0.17
+"51","CT600","17","Timakwa and Natchaug soils, 0 to 2 percent slopes",285946,0,140.99,0,NA,0,6.36,7.76,56.71,35.53,0.28,0.53,74.13,12.44,0.37
+"52","OK015","Gm","Gracemont and Ezell soils, 0 to 1 percent slopes, frequently flooded",381887,5.35,8.32,2.13,NA,1.94,8.04,11.95,71,17.06,1.53,1.5,0.6,44.66,0.13
+"53","OK015","NoD","Noble fine sandy loam, 3 to 8 percent slopes",381905,0,8.5,0,NA,0,6.5,14,66.1,19.9,1.47,1.5,0.75,28.22,0.15
+"54","OK027","32","Lomill silty clay, 0 to 1 percent slopes, occasionally flooded",382099,0,25.9,0,NA,0,8.1,43.93,7.43,48.64,1.46,6.66,1.16,4.37,0.15
+"55","OK027","97","Canadian fine sandy loam, 1 to 3 percent slopes, rarely flooded",382161,0,7.38,0,NA,0,7.02,12.12,65.72,22.15,1.54,1.5,1.32,42.55,0.14
+"56","TX021","AtD","Edge gravelly fine sandy loam, 3 to 8 percent slopes",393399,0.19,17.7,1,NA,0,5.68,33.56,53.94,12.5,1.51,4.95,0.7,2.14,0.13
+"57","MN003","SbC","Sartell fine sand, 6 to 12 percent slopes",395967,0,2.19,0,NA,0,5.88,2.69,96.72,0.59,1.58,1.5,0.49,92,0.07
+"58","MN037","857A","Urban land-Waukegan complex, 0 to 1 percent slopes",396888,0,12.63,0,NA,0,6.44,17.57,33.69,48.74,1.49,1.5,1.42,33.07,0.16
+"59","MN059","Zu","Zimmerman fine sand, 1 to 6 percent slopes",398415,0,2.9,0,NA,0,6.02,2.2,93.16,4.64,1.62,0.22,0.69,282,0.08
+"60","MN079","414","Hamel loam, 0 to 2 percent slopes",398959,0,22.62,0,NA,0,6.5,26.81,36.58,36.61,1.29,3.26,4.14,6.69,0.19
+"61","MN079","944C","Lester-Hawick-Storden complex, 6 to 12 percent slopes",398973,5.21,11.26,0,NA,0,7.03,17.39,55.95,26.66,1.49,2.98,1.05,68.74,0.13
+"62","MN099","1841","Hayfield loam, loamy substratum",400425,0.87,10.96,0,NA,0,6.02,17.46,54.29,28.24,1.5,1.5,1.06,33.07,0.15
+"63","MN099","1974","Coland, frequently flooded-Spillville, occasionally flooded complex, 0 to 2 percent slopes",400433,0,22.55,0.1,NA,0,6.48,26.44,33.78,39.78,1.32,3.75,4.15,5.67,0.13
+"64","MN099","465","Kalmarville loam, frequently flooded",400464,2,11.15,0,NA,0,7.3,14.25,63.68,22.07,1.44,1.5,0.75,23.25,0.17
+"65","MN099","516A","Dowagiac loam, 0 to 2 percent slopes",400470,0,7.48,0,NA,0,6.13,19.43,53.18,27.4,1.53,2.97,0.45,31.2,0.12
+"66","IA169","1314","Hanlon-Spillville complex, channeled, 0 to 2 percent slopes",411278,0,19.95,0,NA,0,6.5,17.33,57.3,25.37,1.5,2.5,3.16,21.67,0.18
+"67","IA169","1585","Spillville-Coland complex, channeled, 0 to 2 percent slopes",411285,0,29.16,0,NA,0,6.57,24.87,34.42,40.71,1.48,4.46,4.66,7,0.2
+"68","IA169","485","Spillville loam, 0 to 2 percent slopes, occasionally flooded",411320,0,20.35,0,NA,0,6.7,24,40,36,1.34,3.1,2.73,9.17,0.19
+"69","IA177","425D","Keswick loam, 9 to 14 percent slopes",413086,0,17.82,1,27.9,0,5.61,36.31,30.85,32.84,1.47,5.71,0.96,4.12,0.16
+"70","IA177","432D","Gorin silt loam, 9 to 14 percent slopes",413090,0,14.18,0,24,0,5.5,38.87,13.6,47.52,1.37,5.5,0.83,2.66,0.17
+"71","IA177","65G","Lindley loam, 25 to 40 percent slopes",413152,1.2,21.4,1,NA,0,6.09,30.37,39.14,30.49,1.49,3.72,0.95,4.2,0.17
+"72","WI601","SzB","Symerton loam, 2 to 6 percent slopes",424112,2.4,20.6,0,NA,0,6.75,27.59,45.56,26.85,1.43,3.36,1.66,8.04,0.16
+"73","WI049","DsC2","Newglarus silt loam, moderately deep, 6 to 12 percent slopes, moderately eroded",424561,0,28.73,0,NA,0,6.54,39.05,10.08,50.87,1.35,5.48,0.62,4.94,0.17
+"74","WI049","DtC2","Palsgrove silt loam, 6 to 12 percent slopes, moderately eroded",424571,0,22.6,0,NA,0,6.27,28.5,7.5,64,1.38,3.92,0.86,9,0.2
+"75","WI049","SoD2","Sogn and Dodgeville silt loams, shallow, 12 to 20 percent slopes, moderately eroded",424708,8.57,22.06,NA,NA,0,7.03,26.34,22.49,51.16,1.32,2.48,2.92,16.2,0.19
+"76","WI602","CeB","Casco loam, 2 to 6 percent slopes",425812,7.87,8.97,0.1,0,0,7.53,10.92,69.87,19.21,1.55,1.15,0.6,164.71,0.09
+"77","WI602","CrD","Casco-Rodman complex, 12-20 percent slopes",425817,12.5,7.04,0.1,NA,NA,7.43,10.8,58.82,27.8,1.54,2.13,0.64,89.87,0.08
+"78","WI602","JuA","Juneau silt loam, 1 to 3 percent slopes",425860,0,13.4,0.1,NA,NA,6.7,15.8,13.02,71.18,1.32,2.82,1.34,9,0.21
+"79","WI602","PrA","Pistakee silt loam, 1 to 3 percent slopes",425907,0,20.88,0.1,NA,NA,6.7,18.92,11.9,69.18,1.33,1.5,4.87,9,0.21
+"80","MN145","1064","Rock outcrop-Lithic Eutrochrepts complex",428071,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"81","MN145","163B","Brainerd fine sandy loam, 1 to 4 percent slopes",428086,0,7.87,0,NA,0,5.73,11.69,65,23.31,1.59,1.5,0.67,14.36,0.13
+"82","MN169","198D","Rollingstone silt loam, 12 to 20 percent slopes",429016,0,12.52,0,36,0,5.29,57.42,13.35,29.22,1.36,3.75,0.75,3,0.15
+"83","MN169","388E","Churchtown silt loam, 20 to 30 percent slopes, moderately eroded",429045,0,17.62,0,NA,0,6.2,21.81,13.17,65.02,1.47,2.51,0.8,9.17,0.2
+"84","MN169","584F","Lamoille-Dorerton silt loams, 30 to 45 percent slopes",429076,0,15.66,0,NA,0,6.54,24.55,39.71,35.74,1.38,2.66,1.05,9.8,0.14
+"85","MN131","414","Hamel loam, 0 to 2 percent slopes",429660,0,22.62,0,NA,0,6.5,26.81,36.58,36.61,1.29,3.26,4.14,6.69,0.19
+"86","MN053","U4A","Urban land-Udipsamments (cut and fill land) complex, 0 to 2 percent slopes",435226,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"87","IN093","W","Water",535199,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"88","AR045","22","Muskogee silty clay loam, 3 to 8 percent slopes, severely eroded",565498,0,42.5,0,20.59,0,5.74,38.7,6.18,55.12,1.34,5.97,0.38,1.87,0.18
+"89","AR119","LRE","Linker-Mountainburg association, 12 to 25 percent slopes, rocky",566179,0,6.26,0.2,4.2,0,5.24,19.27,61.15,19.58,1.45,0.77,1.06,12.42,0.11
+"90","AR119","Pe","Perry clay, 0 to 1 percent slopes, rarely flooded",566193,0,35,0,35,0,6.3,68.5,1.8,29.7,1.3,15.58,0.87,0.21,0.15
+"91","MO071","60056","Bardley gravelly silt loam, 20 to 50 percent slopes",572317,0,26.53,0.2,NA,0,6.13,50.35,14.75,34.9,1.48,7.2,0.84,2.72,0.12
+"92","OK113","58","Steedman-Lucien complex, 15 to 25 percent slopes",623453,0,22.14,0,NA,0,6.72,36.85,17.82,45.33,1.55,5.17,1.13,5.57,0.15
+"93","OK113","66","Verdigris silt loam, 0 to 1 percent slopes, occasionally flooded",623461,0,20.06,0.5,NA,0,6.5,23.87,15,61.13,1.51,3.14,2.49,9,0.21
+"94","OK113","67","Verdigris silt loam, 0 to 1 percent slopes, frequently flooded",623462,0,19.9,0.5,NA,0,6.5,23.57,15,61.43,1.51,3.1,2.67,9,0.21
+"95","WI113","182C","Padus sandy loam, 6 to 15 percent slopes",625371,0,6.63,0,3.6,0,5.44,6.96,64.64,28.4,1.55,0.53,0.85,11.65,0.13
+"96","WI113","815A","Wormet sandy loam, 0 to 3 percent slopes",626794,0,115.4,0,1.87,0,5.46,3.49,77.99,18.52,1.59,0.21,3.26,61.26,0.09
+"97","IL097","153A","Pella silty clay loam, 0 to 2 percent slopes",634362,7.72,22.86,0,NA,0,7.35,28.21,15.84,55.95,1.42,3.62,2.06,9.61,0.17
+"98","IL095","86C2","Osco silt loam, 5 to 10 percent slopes, eroded",680863,0,22.96,1,NA,0,5.98,29.16,3,67.84,1.39,4.33,0.96,9.17,0.2
+"99","IL095","257A","Clarksdale silt loam, 0 to 2 percent slopes",680876,0,22.49,1,NA,0,6.19,29.76,4,66.24,1.43,4.39,0.75,5.42,0.19
+"100","IL095","279B","Rozetta silt loam, 2 to 5 percent slopes",680952,0,21.26,1,NA,0,5.84,27.64,4,68.36,1.44,3.6,0.6,9.17,0.2
+"101","IL095","279C2","Rozetta silt loam, 5 to 10 percent slopes, eroded",680953,0,22.39,1,NA,0,5.59,29.44,4,66.56,1.44,3.93,0.41,9.17,0.2
+"102","IL095","675B","Greenbush silt loam, 2 to 5 percent slopes",680984,0,22.37,1,NA,0,5.79,28,4,68,1.41,3.88,1.06,9.17,0.19
+"103","WI025","DnC2","Dodge silt loam, 6 to 12 percent slopes, eroded",753482,4,18.23,0.1,NA,0,6.33,23.84,17.01,59.16,1.47,2.96,0.51,7.15,0.18
+"104","WI025","DsB","Dresden silt loam, 2 to 6 percent slopes",753489,1.6,12.29,0.1,NA,0,6.8,23.62,39.52,36.86,1.49,2.12,0.88,75.45,0.15
+"105","WI025","EmE2","Elkmound sandy loam, 20 to 30 percent slopes, eroded",753505,0,7.48,NA,NA,0,5.5,11.86,66.99,21.15,1.54,1.5,0.77,19.91,0.14
+"106","WI025","ShA","Salter sandy loam, wet variant, 0 to 3 percent slopes",753580,0,9.13,0.1,2.19,0,5.51,10.41,61.21,28.38,1.57,1.5,0.56,19.96,0.14
+"107","WI025","SvE2","Seaton silt loam, driftless valley, 20 to 30 percent slopes, moderately eroded",753584,0,13.58,0,NA,0,5.92,16.96,15.36,67.68,1.43,1.76,0.4,9.15,0.21
+"108","IL097","228A","Nappanee silt loam, 0 to 2 percent slopes",763030,6.8,23.94,0,NA,0,7.59,41.02,11.34,47.64,1.56,3.9,0.65,2.35,0.11
+"109","KS091","7462","Oska-Martin silty clay loams, 4 to 8 percent slopes",766065,0,31.87,0.14,NA,0,6.51,42.95,4.78,52.27,1.37,7.74,1.48,1.23,0.14
+"110","KS091","7658","Vinland-Rock outcrop complex, 15 to 45 percent slopes",766075,0,23.29,0.1,NA,0,6.7,28.88,15.42,55.7,1.38,4.09,1.76,3.66,0.21
+"111","IL097","696A","Zurich silt loam, 0 to 2 percent slopes",777731,3.32,20.08,0.1,NA,0,6.81,25.31,14.96,59.73,1.48,3.19,0.73,10.44,0.19
+"112","IL097","696B","Zurich silt loam, 2 to 4 percent slopes",777732,3.14,16.31,0,NA,0,6.92,25.49,16.84,57.67,1.41,2.94,0.72,9.59,0.19
+"113","IL097","697A","Wauconda silt loam, 0 to 2 percent slopes",777737,3.84,16.43,0,NA,0,7.39,23.69,17.01,59.3,1.35,2.7,1.1,9.59,0.19
+"114","IL097","802B","Orthents, loamy, 1 to 6 percent slopes",777743,0,14.19,0,NA,0,6.96,27.55,37.55,34.9,1.75,2.73,0.7,2.82,0.1
+"115","IL063","556B","High Gap silt loam, 2 to 5 percent slopes",868745,0,16.85,0,NA,0,6.5,25.34,31.7,42.96,1.48,3.08,0.96,8.55,0.19
+"116","KS167","2234","Roxbury silt loam, channeled, frequently flooded",1150981,5,20.57,0.71,NA,0,7.86,25.31,12.43,62.26,1.36,3.44,2.14,6.66,0.22
+"117","OK113","BBgC","Bartlesville-Bigheart complex, 1 to 5 percent slopes, very rocky",1155385,0,5.95,0,8.7,0,5.59,18.44,62.65,18.91,1.56,1.28,0.79,15.26,0.15
+"118","OK113","NBRE","Niotaze-Bigheart-Rock outcrop complex, 3 to 15 percent slopes, very stony",1155388,0,27.4,0,2.55,0,5.65,24.06,43.72,32.23,1.53,3.7,0.5,6.59,0.13
+"119","KS169","2347","McCook silt loam, rarely flooded",1382182,8.25,7.1,0.43,NA,0,8.12,11.3,38.15,50.55,1.45,0.84,1.14,9,0.19
+"120","KS091","7525","Chillicothe silt loam, 2 to 5 percent slopes",1399845,0,26.26,0.1,NA,0,6.4,34.22,4,61.78,1.35,5.62,1.54,3.09,0.16
+"121","KS045","7051","Kennebec silt loam, frequently flooded",1468815,0,22.64,0,NA,0,6.59,27.25,6.25,66.5,1.36,4.15,2.56,9,0.21
+"122","KS045","7210","Basehor complex, 5 to 30 percent slopes",1468827,0,8.4,0,NA,0,5.8,13,51.67,35.33,1.38,1.13,0.58,21.03,0.18
+"123","KS045","7600","Sibleyville complex, 3 to 7 percent slopes",1468847,0,19.19,0,NA,0,6.3,23.11,43.38,33.5,1.39,3.26,1.59,7.66,0.17
+"124","KS161","4053","Ivan silty clay loam, channeled",1472299,5,21.13,0.5,NA,0,7.99,26.37,5.87,67.76,1.33,3.83,2.16,9,0.21
+"125","KS161","4784","Tully silty clay loam, 3 to 7 percent slopes, eroded",1472320,0,34.98,0.33,NA,0,6.66,43.9,2.83,53.27,1.34,6.76,1.57,1.23,0.15
+"126","IL129","280gC2","Fayette silt loam, glaciated, 5 to 10 percent slopes, eroded",1486923,0,17.98,1,15.3,0,5.75,28.01,4,67.99,1.45,3.05,0.35,9.17,0.2
+"127","IL063","516A","Faxon silt loam, 0 to 2 percent slopes",1541809,1.45,20.89,0,NA,0,7.3,27.61,27.97,44.42,1.44,3.89,2.36,6.71,0.19
+"128","IN093","FknC2","Frederick-Crider silt loams, karst, 2 to 12 percent slopes, eroded complex",1651539,0,19.81,0,17.64,0,5.21,41.64,4.11,54.25,1.48,5.03,0.65,6.4,0.16
+"129","IN093","CbxG","Caneyville-Adyeville-Rock outcrop complex, 25 to 75 percent slopes",1652078,0,19.17,0,13.5,0,5.41,32.04,20.42,47.53,1.46,4.17,1.27,6.11,0.15
+"130","MN123","153B","Santiago silt loam, 2 to 6 percent slopes",1677198,0,10.21,0,NA,0,5.6,16.28,42.13,41.59,1.49,1.5,0.76,9,0.19
+"131","MN123","858C","Urban land-Chetek complex, 3 to 15 percent slopes",1677280,0,4.06,0,NA,0,6.2,6.77,80.33,12.9,1.63,1.5,0.38,62.56,0.07
+"132","LA127","GY","Guyton silt loam, 0 to 1 percent slopes, frequently flooded",1725959,0,NA,1,9.96,0,5.3,22.72,9.88,67.4,1.52,1.7,1,4.84,0.21
+"133","IL031","23A","Blount silt loam, Lake Michigan Lobe, 0 to 2 percent slopes",2108701,6.7,14.11,0,12.5,0,6.63,32.07,14.01,53.92,1.51,2.94,0.81,4.11,0.15
+"134","IL031","530B","Ozaukee silt loam, 2 to 4 percent slopes",2108716,4.85,14.42,0,NA,0,7.03,33.4,11.64,54.96,1.57,2.42,0.57,3.38,0.14
+"135","IL031","530C","Ozaukee silt loam, 4 to 6 percent slopes",2108717,3.55,14.54,0,NA,0,6.91,32.49,11.27,56.24,1.54,2.59,0.61,4.35,0.15
+"136","IL031","530C2","Ozaukee silt loam, 4 to 6 percent slopes, eroded",2108718,4.3,15.77,0,NA,0,7.11,35.58,11.64,52.78,1.57,2.72,0.64,3.07,0.13
+"137","IL031","530D","Ozaukee silt loam, 6 to 12 percent slopes",2108721,1.55,16.28,0,NA,0,6.27,32.75,11.15,56.1,1.53,2.87,0.68,4.94,0.15
+"138","IL031","530E","Ozaukee silt loam, 12 to 20 percent slopes",2108725,3.75,14.55,0,NA,0,7.04,32.53,11.7,55.77,1.55,2.43,0.69,3.74,0.14
+"139","IL031","232A","Ashkum silty clay loam, 0 to 2 percent slopes",2108731,0,28.13,0,NA,0,6.99,37.72,8.26,54.02,1.44,6.72,2.13,2.82,0.14
+"140","IL031","298B","Beecher silt loam, 2 to 4 percent slopes",2108738,1.32,15.2,0.2,NA,0,6.96,32.22,8.94,58.84,1.51,2.83,1.25,3.92,0.15
+"141","IL031","330A","Peotone silty clay loam, 0 to 2 percent slopes",2108755,0,31.9,0,NA,0,7.19,38.9,5.31,55.79,1.4,6.98,3.15,2.82,0.17
+"142","IL031","494B","Kankakee fine sandy loam, 2 to 4 percent slopes",2108767,4.7,11.19,0,NA,0,7.09,15.3,51.96,32.74,1.54,1.74,1.06,20.53,0.13
+"143","SD081","Q0560C","Rapidreek gravelly loam, 2 to 10 percent slopes, rarely flooded",2375836,34.5,5.44,1.02,NA,0,8.11,12.83,63.96,23.21,1.49,0.59,1.11,34.21,0.05
+"144","MS123","KpB","Kipling silty clay loam, 2 to 5 percent slopes",2431379,0,24.8,0,12.2,0,5.9,45.96,6.95,47.09,1.39,7.02,0.38,0.92,0.21
+"145","WI103","568A","Majik loamy fine sand, 0 to 3 percent slopes",2499014,0,3.79,0,NA,NA,5.83,4.84,84.98,10.18,1.6,1.5,0.57,90.33,0.08
+"146","TX625","MCB","McKittrick-Riverwash complex, flooded, 0 to 3 percent slopes",2499062,24.7,11.74,0.4,NA,0,7.52,14.05,66.62,19.33,1.35,2.12,0.53,9,0.05
+"147","MO203","99013","Riverwash, frequently flooded",2501325,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"148","WI103","1743F","Council-Elevasil-Norden complex, 20 to 45 percent slopes, rocky",2501377,0,10.24,0,5.86,0,5.35,12.42,53.59,33.98,1.56,0.94,1.54,21.79,0.16
+"149","MO071","60254","Useful silt loam, 15 to 20 percent slopes",2501585,0,17.77,0.2,11,0,5.36,33.4,7.03,59.57,1.42,2.58,0.78,2.36,0.14
+"150","MO203","73140","Clarksville-Scholten complex, 15 to 45 percent slopes, very stony",2501629,0,NA,0.32,7.04,0,4.95,21.66,29.57,48.77,1.49,0.71,2.38,17.16,0.09
+"151","MO189","73202","Rueter gravelly silt loam, 3 to 15 percent slopes, very stony",2501760,0,NA,0.2,8.83,0,5.06,24.34,26.24,49.42,1.44,1.23,1.01,7.17,0.11
+"152","WI103","1648A","Northbend-Ettrick silt loams, 0 to 3 percent slopes, frequently flooded",2504291,0,19.35,0,3.6,0,5.04,15.87,29.44,54.69,1.42,1.32,2.52,15.6,0.2
+"153","WI103","21A","Palms muck, 0 to 1 percent slopes, frequently flooded",2504320,0,119.1,0,NA,NA,NA,0,0,0,0.28,NA,55,21.88,0.4
+"154","MO189","60001","Menfro silt loam, 5 to 9 percent slopes, eroded",2532847,0,22.74,1,NA,0,5.68,29.09,4.53,66.38,1.29,3.99,1.05,5.1,0.19
+"155","MO071","66014","Haymond silt loam, 0 to 3 percent slopes, frequently flooded",2533532,0,13.08,1,NA,0,7.16,15.25,9.21,75.54,1.43,1.61,1.22,9,0.19
+"156","MO071","70009","Goss gravelly silt loam, 8 to 15 percent slopes",2533925,0,14.32,0.2,NA,0,5.87,27.41,17.22,55.37,1.47,1.76,0.5,4.84,0.09
+"157","MO029","73042","Niangua-Bardley complex, 15 to 50 percent slopes, extremely stony",2534519,0,34.93,0.2,20.45,0,5.56,56.14,7.91,35.95,1.26,6.47,0.92,2.91,0.1
+"158","MO189","73509","Union silt loam, 8 to 15 percent slopes, eroded",2536161,0,11.3,0.2,10.73,0,5.08,29.21,9.65,61.14,1.43,2.05,0.74,6.89,0.14
+"159","WI049","1130F","Lacrescent-Dunbarton complex, very stony, 30 to 60 percent slopes",2561807,0.27,20.24,0,NA,0,6.91,25.29,24.42,50.29,1.35,2.37,1.93,16.08,0.16
+"160","WI049","1195F","Elkmound-Northfield complex, 30 to 60  percent slopes, very rocky",2561809,0,9.32,NA,NA,0,5.6,15.09,57.47,27.44,1.57,1.5,0.64,18.74,0.16
+"161","IN053","GlrC","Glynwood silt loam, 6 to 12 percent slopes",2567855,5.86,20.88,0,14.38,0,6.6,35.66,22.72,41.62,1.61,4.5,0.93,2.79,0.14
+"162","SD607","Q0004E","Mocmont-Rock outcrop complex, 10 to 40 percent slopes",2586534,0,19.43,0.31,29.2,0,6.29,23.98,37.09,38.93,1.29,1.99,3.2,12.09,0.13
+"163","IA113","4083C","Kenyon-Urban land complex, 5 to 9 percent slopes",2606448,0,19.22,0.1,NA,0,5.8,23.56,39.81,36.63,1.59,2.88,1.47,4.68,0.17
+"164","IA113","4391B","Clyde-Floyd-Urban land complex, 0 to 5 percent slopes",2606465,0,21.82,0.1,NA,0,6.7,25.96,29.95,44.1,1.41,3.14,3.46,7.17,0.2
+"165","KS161","4590","Clime-Sogn complex, 3 to 20 percent slopes",2668810,6.13,24.72,0.32,NA,0,7.72,41.13,7.76,51.11,1.34,4.82,2.37,0.98,0.16
+"166","SD081","P256D","Nevee-Spearfish silt loams, 6 to 20 percent slopes",2733259,7.42,12.99,1.23,NA,0.84,7.59,17.1,17.66,65.24,1.44,2.04,0.92,7.23,0.2
+"167","SD607","P366D","Recluse-Fairburn loams, dry, 6 to 15 percent slopes",2745688,4.49,17.33,0.84,NA,0.24,7.54,21.18,40.37,38.45,1.39,2.43,0.9,7.44,0.17
+"168","IA169","L55","Nicollet loam, 1 to 3 percent slopes",2800480,3.9,18.91,0,NA,0,6.81,23.14,37.48,39.38,1.35,2.57,2.44,9.17,0.19
+"169","WI025","161D2","Fivepoints silt loam, 12 to 20 percent slopes, moderately eroded",2809845,0,20.84,0,NA,0,6.61,27.42,26.51,46.08,1.45,3.35,0.54,11.9,0.12
+"170","WI025","1145F","Gaphill-Rockbluff complex, 30 to 60 percent slopes",2809846,0,4.27,0,NA,NA,6.27,7.29,80.57,12.14,1.6,1.5,0.96,59.13,0.1
+"171","IA169","L236B","Lester loam, Bemis moraine, 2 to 6 percent slopes",2834933,0,22.26,0,NA,0,6.43,27.72,35.28,37,1.47,3.54,1.31,5.23,0.18
+"172","IA169","L95","Harps clay loam, Bemis moraine, 0 to 2 percent slopes",2835194,25,16.95,0,NA,0,7.9,24.44,34.05,41.51,1.26,2.12,3.68,7.9,0.19
+"173","IA169","L62D2","Storden loam, Bemis moraine, 10 to 16 percent slopes, moderately eroded",2916702,18.4,15.06,0,NA,0,7.78,20.4,43.8,35.8,1.5,2,0.9,9.17,0.18
+"174","IN053","GleB2","Glynwood silt loam, end moraine, 1 to 4 percent slopes, eroded",3056115,8.32,19.86,0,NA,0,6.82,36.06,23.24,40.7,1.65,3.8,0.89,1.25,0.12
+"175","IN053","GweB3","Glynwood-Mississinewa clay loams, end moraine, 3 to 8 percent slopes, severely eroded",3056117,10.97,18.5,0,NA,0,7.03,36.62,23.56,39.83,1.67,3.48,0.6,1.23,0.1

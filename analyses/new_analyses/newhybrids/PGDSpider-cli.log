@@ -1,0 +1,93 @@
+INFO  26-09 18:49:07,430 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /home/gabe/miniconda3/envs/R_newhybrids/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 26-09 18:49:07,455 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+DEBUG 26-09 18:49:07,462 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+INFO  26-09 18:49:42,275 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /home/gabe/miniconda3/envs/R_newhybrids/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 26-09 18:49:42,299 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+DEBUG 26-09 18:49:42,307 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+INFO  26-09 18:50:15,783 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /home/gabe/miniconda3/envs/R_newhybrids/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 26-09 18:50:15,807 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+DEBUG 26-09 18:50:15,814 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+INFO  26-09 18:50:47,343 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /home/gabe/miniconda3/envs/R_newhybrids/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 26-09 18:50:47,368 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+DEBUG 26-09 18:50:47,375 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+INFO  26-09 18:51:18,323 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /home/gabe/miniconda3/envs/R_newhybrids/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 26-09 18:51:18,347 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+DEBUG 26-09 18:51:18,354 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+INFO  26-09 18:51:40,137 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /home/gabe/miniconda3/envs/R_newhybrids/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 26-09 18:51:40,163 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+DEBUG 26-09 18:51:40,170 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+INFO  26-09 18:52:01,484 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /home/gabe/miniconda3/envs/R_newhybrids/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 26-09 18:52:01,508 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+DEBUG 26-09 18:52:01,516 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+INFO  26-09 18:52:22,560 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /home/gabe/miniconda3/envs/R_newhybrids/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 26-09 18:52:22,585 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+DEBUG 26-09 18:52:22,593 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+INFO  26-09 18:52:42,486 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /home/gabe/miniconda3/envs/R_newhybrids/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 26-09 18:52:42,511 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+DEBUG 26-09 18:52:42,518 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+INFO  26-09 18:53:01,729 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /home/gabe/miniconda3/envs/R_newhybrids/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 26-09 18:53:01,754 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+DEBUG 26-09 18:53:01,761 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+INFO  27-09 10:07:13,012 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /home/gabe/miniconda3/envs/R_newhybrids/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 27-09 10:07:13,037 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+DEBUG 27-09 10:07:13,044 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+INFO  27-09 10:07:13,618 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /home/gabe/miniconda3/envs/R_newhybrids/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 27-09 10:07:13,642 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+DEBUG 27-09 10:07:13,650 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+INFO  27-09 10:07:14,210 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /home/gabe/miniconda3/envs/R_newhybrids/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 27-09 10:07:14,234 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+DEBUG 27-09 10:07:14,241 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+INFO  27-09 10:07:14,797 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /home/gabe/miniconda3/envs/R_newhybrids/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 27-09 10:07:14,822 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+DEBUG 27-09 10:07:14,830 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+INFO  27-09 10:07:15,383 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /home/gabe/miniconda3/envs/R_newhybrids/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 27-09 10:07:15,408 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+DEBUG 27-09 10:07:15,415 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+INFO  27-09 10:07:15,862 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /home/gabe/miniconda3/envs/R_newhybrids/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 27-09 10:07:15,887 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+DEBUG 27-09 10:07:15,894 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+INFO  27-09 10:07:16,340 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /home/gabe/miniconda3/envs/R_newhybrids/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 27-09 10:07:16,365 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+DEBUG 27-09 10:07:16,372 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+INFO  27-09 10:07:16,828 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /home/gabe/miniconda3/envs/R_newhybrids/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 27-09 10:07:16,853 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+DEBUG 27-09 10:07:16,860 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+INFO  27-09 10:07:17,277 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /home/gabe/miniconda3/envs/R_newhybrids/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 27-09 10:07:17,301 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+DEBUG 27-09 10:07:17,308 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+INFO  27-09 10:07:17,720 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /home/gabe/miniconda3/envs/R_newhybrids/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 27-09 10:07:17,745 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+DEBUG 27-09 10:07:17,752 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+INFO  30-09 12:10:01,356 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /home/gabe/miniconda3/envs/R_newhybrids/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 30-09 12:10:01,537 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+DEBUG 30-09 12:10:01,555 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+INFO  30-09 12:10:02,237 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /home/gabe/miniconda3/envs/R_newhybrids/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 30-09 12:10:02,262 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+DEBUG 30-09 12:10:02,269 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+INFO  30-09 12:10:02,863 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /home/gabe/miniconda3/envs/R_newhybrids/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 30-09 12:10:02,888 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+DEBUG 30-09 12:10:02,895 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+INFO  30-09 12:10:03,452 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /home/gabe/miniconda3/envs/R_newhybrids/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 30-09 12:10:03,484 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+DEBUG 30-09 12:10:03,491 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+INFO  30-09 12:10:04,135 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /home/gabe/miniconda3/envs/R_newhybrids/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 30-09 12:10:04,160 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+DEBUG 30-09 12:10:04,167 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+INFO  30-09 12:10:04,651 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /home/gabe/miniconda3/envs/R_newhybrids/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 30-09 12:10:04,676 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+DEBUG 30-09 12:10:04,683 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+INFO  30-09 12:10:05,193 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /home/gabe/miniconda3/envs/R_newhybrids/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 30-09 12:10:05,218 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+DEBUG 30-09 12:10:05,225 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+INFO  30-09 12:10:05,686 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /home/gabe/miniconda3/envs/R_newhybrids/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 30-09 12:10:05,717 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+DEBUG 30-09 12:10:05,724 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+INFO  30-09 12:10:06,152 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /home/gabe/miniconda3/envs/R_newhybrids/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 30-09 12:10:06,178 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+DEBUG 30-09 12:10:06,185 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+INFO  30-09 12:10:06,657 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /home/gabe/miniconda3/envs/R_newhybrids/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 30-09 12:10:06,682 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+DEBUG 30-09 12:10:06,689 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+INFO  02-10 22:00:54,903 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /home/gabe/miniconda3/envs/R_newhybrids/share/pgdspider-2.1.1.5-1/spider.conf.xml
+DEBUG 02-10 22:00:55,135 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+DEBUG 02-10 22:00:55,154 (ParserFactory.java:getParserInstance:157)  -New PedParser instance

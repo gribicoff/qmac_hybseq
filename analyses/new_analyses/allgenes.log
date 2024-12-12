@@ -1,0 +1,29 @@
+PLINK v1.90b6.21 64-bit (19 Oct 2020)
+Options in effect:
+  --allow-extra-chr
+  --bfile thin_500bp
+  --double-id
+  --make-set allgenes_chrbp_thin_500bp.txt
+  --out allgenes
+  --set-missing-var-ids @:#
+  --write-set
+
+Hostname: sassy-64
+Working directory: /home/gabe/qmac/analyses/new_analyses
+Start time: Thu Aug  8 10:58:57 2024
+
+Random number seed: 1723132737
+515586 MB RAM detected; reserving 257793 MB for main workspace.
+3412 variants loaded from .bim file.
+364 people (0 males, 0 females, 364 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to allgenes.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 364 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.871369.
+--make-set: 456 sets defined.
+3412 variants and 364 people pass filters and QC.
+Note: No phenotypes present.
+--write-set: allgenes.set written.
+
+End time: Thu Aug  8 10:58:57 2024

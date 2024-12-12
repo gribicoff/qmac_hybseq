@@ -1,0 +1,6 @@
+coords_noSHF_bioclim.csv
+coords_noSHF_distfromrangeedge.csv
+coords_noSHF_habsuit.csv
+coords_noSHF_SDA.csv
+coords_noSHF_sitedata.csv
+coords_noSHF_sympspp.csv

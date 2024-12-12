@@ -1,0 +1,5 @@
+it_filt
+prune_it_filt_50snps
+prune_it_filt_50kb
+prune_it_filt_500kb
+prune_it_filt_longestgene

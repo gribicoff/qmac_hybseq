@@ -1,0 +1,12 @@
+PLINK v1.90b6.21 64-bit (19 Oct 2020)
+Options in effect:
+  --genome
+
+Hostname: sassy-64
+Working directory: /home/gabe/qmac/analyses/new_analyses
+Start time: Thu Aug  8 09:26:49 2024
+
+Error: No input dataset.
+For more information, try "plink --help <flag name>" or "plink --help | more".
+
+End time: Thu Aug  8 09:26:49 2024

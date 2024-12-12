@@ -1,0 +1,10 @@
+mac_alb
+mac_bic
+mac_ste
+mac_mue
+alb_bic
+alb_ste
+alb_mue
+bic_ste
+bic_mue
+ste_mue

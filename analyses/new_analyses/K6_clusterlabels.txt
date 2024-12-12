@@ -1,0 +1,7 @@
+cluster	admix_pop	qmatrix_column
+mac_n	Pop5	V6
+mac_s	Pop2	V3
+alb	Pop0	V1
+bic	Pop3	V4
+ste	Pop4	V5
+mue	Pop1	V2

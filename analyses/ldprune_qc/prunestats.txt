@@ -1,0 +1,6 @@
+dataset,num_SNPs,mean_MAF
+it_filt,84201,0.0627643
+prune_it_filt_50snps,29178,0.0456224
+prune_it_filt_50kb,21862,0.0512137
+prune_it_filt_500kb,18188,0.0512035
+prune_it_filt_longestgene,22067,0.0511339

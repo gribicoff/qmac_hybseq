@@ -1,0 +1,85 @@
+# TEMP - ALL ANALYSES
+
+# /analyses/
+
+# fastq files - ADD README
+
+/data/*.fastq.gz
+/data/fastqc/*zip
+/data/fastqc/fastqc_multi/*zip
+
+# legacy analyses
+
+/analyses_legacy/
+
+# legacy scripts
+
+/scripts/
+/scripts_legacy/
+
+# intermediate read files/bioinformatic output
+
+/analyses/trimming/paired/*.fastq.gz
+/analyses/trimming/unpaired/*.fastq.gz
+/analyses/trimming/postqc/*.zip
+/analyses/trimming/postqc/postqc_multi/*.zip
+/analyses/trimming/seqcount/*.zip
+
+/analyses/align/*.bam
+/analyses/align/*.bai
+/analyses/align/align_qc/
+/analyses/align/align_multiqc_data/
+/analyses/align/index/*Qlobata*
+
+/analyses/calling/*.vcf
+/analyses/calling/*.vcf.gz
+/analyses/calling/*.vcf.gz.csi
+/analyses/calling/*.bam
+/analyses/calling/*.bai
+
+/analyses/it_filt/*.vcf
+/analyses/it_filt/*.vcf.gz
+/analyses/it_filt/*.vcf.gz.csi
+/analyses/it_filt/merged-genome.lmiss
+
+/analyses/ldprune_qc/onesnppergene/
+/analyses/ldprune_qc/admix/
+/analyses/ldprune_qc/*.vcf.gz
+/analyses/ldprune_qc/*.vcf.gz.csi
+
+/analyses/blast/Qlobata*
+/analyses/blast/Qrobur*
+/analyses/blast/Qrob_PM1N_genes_20161004.gff
+
+# spatial/SDM data
+
+/analyses/envdata/climdata/*.tif
+/analyses/envdata/climdata/Global-AI_ET0_annual_v3.zip
+/analyses/envdata/climdata/Global-AI_ET0_v3_annual/
+
+/analyses/envdata/fia/*.rds
+
+/analyses/envdata/0049455-231120084113126.zip
+
+/analyses/envdata/sympsppdata/*.zip
+/analyses/envdata/sympsppdata/fiadata.rds
+
+/analyses/envdata/maxent/*.rds
+/analyses/envdata/maxent/*.pdf
+/analyses/envdata/maxent/*.tif
+
+# jackknife samples
+
+/analyses/new_analyses/feems/src/
+
+/analyses/new_analyses/subsample_dists/subset_fst/*subset*
+
+# NewHybrids uncompressed SNP files
+
+/analyses/new_analyses/newhybrids/*unpruned*
+
+# figure/table outputs
+
+/analyses/new_analyses/figures/*.pdf
+/analyses/new_analyses/figures/*.txt
+/analyses/new_analyses/figures/*.csv

@@ -1,0 +1,7 @@
+thin_it_filt_500bp_K2_run4.Q
+thin_it_filt_500bp_K3_run26.Q
+thin_it_filt_500bp_K4_run7.Q
+thin_it_filt_500bp_K5_run46.Q
+thin_it_filt_500bp_K6_run47.Q
+thin_it_filt_500bp_K7_run46.Q
+thin_it_filt_500bp_K8_run32.Q

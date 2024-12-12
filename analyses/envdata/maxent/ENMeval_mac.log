@@ -1,0 +1,31 @@
+Warning message:
+package ‘rJava’ was built under R version 4.3.2 
+terra 1.7.39
+Loading required package: magrittr
+
+Attaching package: ‘magrittr’
+
+The following objects are masked from ‘package:terra’:
+
+    extract, inset
+
+The legacy packages maptools, rgdal, and rgeos, underpinning this package
+will retire shortly. Please refer to R-spatial evolution reports on
+https://r-spatial.org/r/2023/05/15/evolution4.html for details.
+This package is now running under evolution status 0 
+This is ENMeval version 2.0.4. 
+For worked examples, please consult the vignette: <https://jamiemkass.github.io/ENMeval/articles/ENMeval-2.0-vignette.html>.
+Package ecospat is not installed, so Continuous Boyce Index (CBI) cannot be calculated.
+*** Running initial checks... ***
+
+* Removed 40 occurrence points with NA predictor variable values.
+* Clamping predictor variable rasters...
+* Model evaluations with checkerboard (2-fold) cross validation...
+
+*** Running ENMeval v2.0.4 with maxent.jar v3.4.3 from dismo package v1.3.14 ***
+
+  |                                                                              |                                                                      |   0%
+Of 128 total cores using 32...
+Running in parallel using doSNOW...
+  |                                                                              |=====                                                                 |   7%  |                                                                              |=========                                                             |  13%  |                                                                              |==============                                                        |  20%  |                                                                              |===================                                                   |  27%  |                                                                              |=======================                                               |  33%  |                                                                              |============================                                          |  40%  |                                                                              |=================================                                     |  47%  |                                                                              |=====================================                                 |  53%  |                                                                              |==========================================                            |  60%  |                                                                              |===============================================                       |  67%  |                                                                              |===================================================                   |  73%  |                                                                              |========================================================              |  80%  |                                                                              |=============================================================         |  87%  |                                                                              |=================================================================     |  93%  |                                                                              |======================================================================| 100%
+ENMevaluate completed in 146 minutes 34.1 seconds.

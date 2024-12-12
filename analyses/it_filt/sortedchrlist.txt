@@ -1,0 +1,16 @@
+sorted-prefiltered-NC_044904.1.vcf.gz
+sorted-prefiltered-NC_044905.1.vcf.gz
+sorted-prefiltered-NC_044906.1.vcf.gz
+sorted-prefiltered-NC_044907.1.vcf.gz
+sorted-prefiltered-NC_044908.1.vcf.gz
+sorted-prefiltered-NC_044909.1.vcf.gz
+sorted-prefiltered-NC_044910.1.vcf.gz
+sorted-prefiltered-NC_044911.1.vcf.gz
+sorted-prefiltered-NC_044912.1.vcf.gz
+sorted-prefiltered-NC_044913.1.vcf.gz
+sorted-prefiltered-NC_044914.1.vcf.gz
+sorted-prefiltered-NC_044915.1.vcf.gz
+sorted-prefiltered-NW_022154709.1.vcf.gz
+sorted-prefiltered-NW_022155175.1.vcf.gz
+sorted-prefiltered-NW_022155009.1.vcf.gz
+sorted-prefiltered-NW_022154707.1.vcf.gz
