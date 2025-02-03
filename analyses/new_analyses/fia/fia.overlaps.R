@@ -4,7 +4,7 @@
 # original citation: Cavender-Bares, J., Kothari, S., Meireles, J. E., Kaproth, M. A., Manos, P. S., & Hipp, A. L. (2018). The role of diversification in community assembly of the oaks (Quercus L.) across the continental U.S. American Journal of Botany, 105(3), 565–586. https://doi.org/10.1002/ajb2.1049
 
 if(!exists('dat')) 
-    dat <- read.csv('analyses/new_analyses/fia/fia_subset_2024-01-24.csv')
+    dat <- read.csv('analyses/new_analyses/fia/fia_subset_2025-01-24.csv')
 if(!exists('dat.agg'))
     dat.agg <- aggregate(dat[grep('quercus', names(dat), value = T)], 
                         by = list(plotNum = dat$PLT_CN), FUN = sum)
@@ -47,6 +47,6 @@ proportions <- c(
 print(overlaps)
 print(round(proportions, 3))
 writeLines(paste(names(proportions), as.character(round(proportions, 3))), 
-            'analyses/new_analyses/fia/proportionalOverlaps.txt')
+            'analyses/new_analyses/fia/proportionalOverlaps-v1.txt')
 writeLines(paste(names(overlaps), as.character(overlaps)),
-            'analyses/new_analyses/fia/totalPlots.txt')
+            'analyses/new_analyses/fia/totalPlots-v1.txt')

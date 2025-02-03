@@ -1,9 +1,0 @@
-mac 6041
-alb 18721
-mac_alb 1173
-mac_bic 212
-mac_mue 365
-mac_ste 210
-alb_bic 486
-alb_mue 1402
-alb_ste 4350
