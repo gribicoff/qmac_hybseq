@@ -17,6 +17,9 @@ macCol <- 6
 overlaps <- c(
     mac = apply(dat.agg, 1, function(x) x[macCol] > 0) |> sum(),
     alb = apply(dat.agg, 1, function(x) x[albCol] > 0) |> sum(),
+    bic = apply(dat.agg, 1, function(x) x[bicCol] > 0) |> sum(),
+    mue = apply(dat.agg, 1, function(x) x[mueCol] > 0) |> sum(),
+    ste = apply(dat.agg, 1, function(x) x[steCol] > 0) |> sum(),
     mac_alb = 
         apply(dat.agg, 1, function(x) {x[macCol] > 0 & x[albCol] > 0}) |> sum(),
     mac_bic = 
@@ -36,6 +39,11 @@ overlaps <- c(
 proportions <- c(
     by_mac = overlaps['mac_alb'] / overlaps['mac'],
     by_alb = overlaps['mac_alb'] / overlaps['alb'],
+    mac_prop = overlaps['mac'] / dim(dat.agg)[1],
+    alb_prop = overlaps['alb'] / dim(dat.agg)[1],
+    bic_prop = overlaps['bic'] / dim(dat.agg)[1],
+    mue_prop = overlaps['mue'] / dim(dat.agg)[1],
+    ste_prop = overlaps['ste'] / dim(dat.agg)[1],
     overlaps['mac_mue'] / overlaps['mac'],
     overlaps['mac_ste'] / overlaps['mac'],
     overlaps['mac_bic'] / overlaps['mac'],

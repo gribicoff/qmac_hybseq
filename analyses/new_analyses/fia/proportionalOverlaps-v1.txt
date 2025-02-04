@@ -1,5 +1,10 @@
 by_mac.mac_alb 0.194
 by_alb.mac_alb 0.063
+mac_prop.mac 0.127
+alb_prop.alb 0.395
+bic_prop.bic 0.022
+mue_prop.mue 0.056
+ste_prop.ste 0.143
 mac_mue 0.06
 mac_ste 0.035
 mac_bic 0.035
