@@ -1,0 +1,26 @@
+[1] "QUERCUS MACROCARPA ONLY:"
+
+	Welch Two Sample t-test
+
+data:  latitude by instrument_model
+t = -0.34215, df = 230.86, p-value = 0.7325
+alternative hypothesis: true difference in means between group Illumina HiSeq 4000 and group Illumina MiSeq is not equal to 0
+95 percent confidence interval:
+ -0.6356459  0.4475433
+sample estimates:
+mean in group Illumina HiSeq 4000      mean in group Illumina MiSeq 
+                         41.67732                          41.77137 
+
+[1] "ALL TAXA:"
+
+	Welch Two Sample t-test
+
+data:  latitude by instrument_model
+t = -0.99667, df = 184.63, p-value = 0.3202
+alternative hypothesis: true difference in means between group Illumina HiSeq 4000 and group Illumina MiSeq is not equal to 0
+95 percent confidence interval:
+ -1.087517  0.357515
+sample estimates:
+mean in group Illumina HiSeq 4000      mean in group Illumina MiSeq 
+                         40.79284                          41.15784 
+
