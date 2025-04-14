@@ -1,0 +1,27 @@
+ Family: beta 
+  Links: mu = logit; phi = identity 
+Formula: admix_frac ~ lat + dist_from_rangeedge + hab_suit + sympspp_num + (1 | site) 
+   Data: admix.ls[[x]] (Number of observations: 177) 
+  Draws: 15 chains, each with iter = 50000; warmup = 25000; thin = 2;
+         total post-warmup draws = 187500
+
+Group-Level Effects: 
+~site (Number of levels: 62) 
+              Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+sd(Intercept)     0.65      0.19     0.13     0.96 1.00    35876    30991
+
+Population-Level Effects: 
+                    Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+Intercept              -4.57      0.24    -5.01    -4.05 1.00    50168    60007
+lat                     0.35      0.16     0.06     0.67 1.00   104889   143918
+dist_from_rangeedge    -0.66      0.17    -0.99    -0.34 1.00    65393    80129
+hab_suit                0.05      0.12    -0.19     0.30 1.00   132871   152505
+sympspp_num             0.31      0.12     0.08     0.56 1.00   109687   146634
+
+Family Specific Parameters: 
+    Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+phi    24.28      6.59    12.10    37.69 1.00    42631    46584
+
+Draws were sampled using sampling(NUTS). For each parameter, Bulk_ESS
+and Tail_ESS are effective sample size measures, and Rhat is the potential
+scale reduction factor on split chains (at convergence, Rhat = 1).
